@@ -1,0 +1,29 @@
+{
+  "characters": [
+    {
+      "id": "bananaphant",
+      "name": "Bananaphant",
+      "base_fruit": "Banana",
+      "animal": "Elephant",
+      "style": "Glossy yellow skin with brown 'bruise' spots as ears. Pixar-style textures.",
+      "personality": "Playful and clumsy"
+    },
+    {
+      "id": "broccolirex",
+      "name": "Broccoli-Rex",
+      "base_vegetable": "Broccoli",
+      "animal": "T-Rex",
+      "style": "Dark green bushy 'foliage' for a head, stalk-like body with ringed textures.",
+      "personality": "Grumpy but cute"
+    },
+    {
+      "id": "strawber-snail",
+      "name": "Strawber-Snail",
+      "base_fruit": "Strawberry",
+      "animal": "Snail",
+      "style": "Red seeded shell, translucent jelly-like body. High-saturation colors.",
+      "personality": "Very slow and sleepy"
+    }
+  ],
+  "global_style": "Vibrant 3D animation, soft studio lighting, high-subsurface scattering, 4K resolution, vertical 9:16 aspect ratio."
+}
